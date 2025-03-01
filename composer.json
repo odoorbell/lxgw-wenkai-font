@@ -1,0 +1,28 @@
+{
+    "name": "odoorbell/lxgw-wenkai-font",
+    "description": "Add LXGW WenKai Screen fonts to the forum!",
+    "type": "flarum-extension",
+    "version": "v1.0.0",
+    "license": "GPL-3.0",
+    "require": {
+        "flarum/core": "^1.8.0"
+    },
+    "authors": [
+        {
+            "name": "Xiaoxiaobai5724",
+            "email": "odoorbell@163.com",
+            "role": "Developer"
+        }
+    ],    
+    "extra": {
+        "flarum-extension": {
+            "title": "LXGW WenKai Screen Font",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-book",
+                "backgroundColor": "#000000",
+                "color": "#fff"
+            }
+        }
+    }
+}
